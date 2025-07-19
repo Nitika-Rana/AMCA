@@ -28,6 +28,7 @@ lefse_format_input.py
 lefse_run.py
 lefse_plot_res.py
 lefse_plot_cladogram.py
+Pre-trained taxonomic classifier for V3-V4 16S rRNA and associated files at : 10.6084/m9.figshare.29602949
 
 
 Input Requirements
